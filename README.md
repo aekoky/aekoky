@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Aekoky!
+# 👋 Hi, I'm Rida!
 
 Welcome to my GitHub profile! I'm a passionate developer, always on the lookout for exciting projects to contribute to and new technologies to learn. Here's a bit more about me:
 
